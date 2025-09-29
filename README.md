@@ -59,9 +59,14 @@ Files included:
 
 ---
 
-## 📌 Deliverables
-- **Jupyter Notebook** → Complete EDA process with code, plots, and observations.
-- **PDF Report** → Summary of analysis and key findings (exported from notebook).
+## 📝 Summary of Findings
+- **Women and children** had significantly higher survival rates compared to men.  
+- **1st-class passengers** survived more often than those in 3rd class.  
+- **Fare** was positively related to survival chances (higher-paying passengers had better survival probability).  
+- **Age** showed a trend: younger passengers (especially children) had higher survival rates.  
+- The majority of missing data came from the **Cabin** column, which was dropped.  
+- After imputations, the dataset was ready for further feature engineering or predictive modeling.  
+
 
 ---
 
@@ -70,6 +75,8 @@ Files included:
    ```bash
    git clone https://github.com/yourusername/titanic-eda.git
    cd titanic-eda
-<img width="803" height="535" alt="image" src="https://github.com/user-attachments/assets/2246621a-8010-43b4-8783-fa0dbf01f184" />
-<img width="918" height="714" alt="image" src="https://github.com/user-attachments/assets/e8941914-31d0-46b3-b1a9-13bef66a1814" />
+
+<img width="765" height="551" alt="image" src="https://github.com/user-attachments/assets/a537dff7-e340-4ade-be78-2b289af8bd32" />
+<img width="913" height="728" alt="image" src="https://github.com/user-attachments/assets/2074eb37-471d-4a9e-bfe3-9f28f5bf834a" />
+
 
